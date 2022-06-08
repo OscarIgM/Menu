@@ -1,6 +1,6 @@
 # Menu
 //Menu simple de opciones
- System.out.println("libreria");
+ 
         System.out.println("Digite una opcion");
 
         Scanner sn = new Scanner(System.in);
